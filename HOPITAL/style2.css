@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+table{
+    width: 65%;
+    margin: 10px auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #EDAFB8;
+    height: 26px;
+}
+
+td{
+    border: 1px solid #4A5759;
+}
+
+tr:hover{
+    background-color: #DEDBD2;
+}
+
+body{
+    background-color: #F7E1D7;
+}
